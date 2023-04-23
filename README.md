@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 
 
-
-
+![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremy-0204&show_icons=true&theme=onedark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeremy0204)](https://solved.ac/jeremy0204)
