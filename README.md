@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 
 
-[![Solved.ac
-jeremy0204](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![jeremy0204](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
