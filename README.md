@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## 💻 Career / Projects  
-### 2023.06 ~ : (주)엠젠
+### 2023.06 ~ : [(주)엠젠](http://m-gen.co.kr/)
 - Qt Creator, C++을 이용한 Serial 통신 프로그램 개발
 
 ### 2023.02 ~ 2023.03 : [(주)에듀토셀](https://tosel.org/)
