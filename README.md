@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 2023.06 ~ 2023.07 : [(주)엠젠](http://m-gen.co.kr/)
 - Qt Creator, Qml, C++을 이용한 Serial 통신 프로그램 개발
 
-### 2023.02 ~ 2023.03 : [(주)에듀토셀](https://tosel.org/)
+### 2023.02 ~ 2023.04 : [(주)에듀토셀](https://tosel.org/)
 - Spring 프레임워크를 이용한 사이트 유지보수 및 리뉴얼  
 
 ### 2022.07 ~ 2023.02 : [한동대학교 딥러닝 연구실](http://deeplearning.handong.edu/)
