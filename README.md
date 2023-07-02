@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 
 ## 💻 Career / Projects  
-#### 2023.06 ~ 2023.07 : [(주)엠젠](http://m-gen.co.kr/)
+### 2023.06 ~ 2023.07 : [(주)엠젠](http://m-gen.co.kr/)
 - Qt Creator, Qml, C++을 이용한 Serial 통신 프로그램 개발
 
-#### 2023.02 ~ 2023.04 : [(주)에듀토셀](https://tosel.org/)
+### 2023.02 ~ 2023.04 : [(주)에듀토셀](https://tosel.org/)
 - Spring 프레임워크를 이용한 사이트 유지보수 및 리뉴얼  
 
-#### 2022.07 ~ 2023.02 : [한동대학교 딥러닝 연구실](http://deeplearning.handong.edu/)
+### 2022.07 ~ 2023.02 : [한동대학교 딥러닝 연구실](http://deeplearning.handong.edu/)
 - Traffic Sign Recognition  
 - Inference Time 30ms를 초과하지 않는 Object Detection 및 Classification을 수행할 Two-Stage 모델 개발
 
-#### 2022.03 ~ 2022.08 : [ARmigo](https://github.com/Team-Armigo/TEAM_Armigo)  
+### 2022.03 ~ 2022.08 : [ARmigo](https://github.com/Team-Armigo/TEAM_Armigo)  
 - Unity AR 라이브러리를 활용한 Face Detection 미니 게임 개발
 
 
