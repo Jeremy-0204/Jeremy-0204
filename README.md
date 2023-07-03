@@ -21,13 +21,18 @@ Here are some ideas to get you started:
 
 
 ## 💻 Career / Projects  
-### 2023.06 ~ 2023.07 : [(주)엠젠](http://m-gen.co.kr/)
+### 2023.06 ~ 2023.07 : [(주)엠젠](http://m-gen.co.kr/)   
 - Qt Creator, Qml, C++을 이용한 Serial 통신 프로그램 개발
-- OpenGL 연동
+- OpenGL 연동  
+
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
 
 ### 2023.02 ~ 2023.04 : [(주)에듀토셀](https://tosel.org/)
 - Spring 프레임워크 기반 사이트 유지보수 및 리뉴얼
-- Selenium 기반 자동화 코드 유지보수
+- Selenium 기반 자동화 코드 유지보수  
+
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+
 
 ### 2022.07 ~ 2023.02 : [한동대학교 딥러닝 연구실](http://deeplearning.handong.edu/)
 - Traffic Sign Recognition  
