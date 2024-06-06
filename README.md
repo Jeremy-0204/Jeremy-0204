@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 💻 Career / Projects  
 ### 2023.06 ~ 2023.07 : [(주)엠젠](http://m-gen.co.kr/)   
-- Qt Creator, Qml, C++을 이용한 Serial 통신 프로그램 개발
+- Qt Creator, Qml, C++을 이용한 Serial 통신 GUI 프로그램 개발
 - OpenGL 연동  
 
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 ### 2022.07 ~ 2023.02 : [한동대학교 딥러닝 연구실](http://deeplearning.handong.edu/)
 - Traffic Sign Recognition  
 - Inference Time 30ms를 초과하지 않는 Object Detection 및 Classification을 수행할 Two-Stage 모델 개발
+
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/onnx-005CED?style=flat&logo=onnx&logoColor=white"/>
+
 
 ### 2022.03 ~ 2022.08 : [ARmigo](https://github.com/Team-Armigo/TEAM_Armigo)  
 - Unity ARCore 기반 Face Detection 미니 게임 개발
