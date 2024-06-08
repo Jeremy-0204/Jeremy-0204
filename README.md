@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 2022.03 ~ 2022.08 : [ARmigo](https://github.com/Team-Armigo/TEAM_Armigo)  
 - Unity ARCore 기반 Face Detection 미니 게임 개발
-
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>
 
 ##
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeremy-0204&show_icons=true&theme=onedark)
